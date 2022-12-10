@@ -1,2 +1,3 @@
 # nix-utils
-READMEs, URLs and .nix to make everything reproducible
+## URLs
+- [Learn nix in Y minutes](https://learnxinyminutes.com/docs/nix/)
